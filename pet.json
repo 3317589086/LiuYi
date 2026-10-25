@@ -1,0 +1,16 @@
+{
+  "scale_val": 0.5,
+  "ontop": true,
+  "water_on": true,
+  "water_min": 45,
+  "sleep_min": 5,
+  "deep_sleep_min": 10,
+  "anim_on": true,
+  "power_saver": false,
+  "high_dpi": true,
+  "anni_name": "",
+  "anni_date": "",
+  "last_anni_shown": "",
+  "pos_x": 1161,
+  "pos_y": 597
+}
